@@ -12,4 +12,4 @@ To run the script, first install praw by using:
 
 After that just go to terminal and type:
 
-`python karmaBot.py`
+`python file_name.py`
